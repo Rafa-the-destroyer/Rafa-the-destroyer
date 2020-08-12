@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Rafael, I love to Program, trying to work on some apps, websites, games or things like this.
+My name is Rafael, and I love to Program!
 
 - 🔭 I’m currently working on my personal website, wich i'm currently designing.
 - 🌱 I’m currently learning Javascript, Economy and Cybersecurity.
