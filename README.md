@@ -8,6 +8,6 @@ My name is Rafael, and I love to Program!
 
 Alredy been into:
 
-- Next Level Week #2, from [Rocketseat](https://github.com/Rocketseat);
-- CS50, from [Harvard's CS50](https://online-learning.harvard.edu/catalog?keywords=&subject%5B%5D=3&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=);
+- 🚀 Next Level Week #2, from [Rocketseat](https://github.com/Rocketseat);
+- 📕 CS50, from [Harvard's CS50](https://online-learning.harvard.edu/catalog?keywords=&subject%5B%5D=3&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=);
 - And some others i can't remember... 😕
