@@ -2,7 +2,7 @@
 
 My name is Rafael, and I love to Program!
 
-- 🔭 I’m currently working on my personal website, wich i'm currently designing.
+- 🔭 I’m currently working on a Chrome extension!
 - 🌱 I’m currently learning Javascript, Economy and Cybersecurity.
 - ⚡ Fun fact: My name is Rafael, but all my friends call me "Limão", wich translated to english means "Lemon"...
 
