@@ -49,7 +49,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://mailto:monteiro.rafael2008@gmail.com"
+            href="mailto:monteiro.rafael2008@gmail.com"
             className={styles.card}
           >
             <h3>Contato &rarr;</h3>
