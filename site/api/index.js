@@ -4,7 +4,7 @@ import yaml from 'js-yaml'
 
 export async function getConfig() {
     const config = await import(`../config.yml`)
-    return yaml.safeLoad(config.default)
+    return yaml.Load(config.default)
 }
 
 export async function getAllPosts() {
