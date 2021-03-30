@@ -1,0 +1,28 @@
+.header {
+    width: 100%;
+    padding-right: 3em;
+    padding-left: 3em;
+  
+    display: flex;
+    justify-content: space-between;
+
+    background-color: #121212;
+}
+  
+  .header div h2 {
+    color: #fafafa;
+  }
+
+.headerLink {
+    color: #fafafa;
+    transition: color 0.15s ease, border-color 0.15s ease;
+
+    display: flex;
+    align-items: center;
+  }
+  
+  .headerLink:hover,
+  .headerLink:focus,
+  .headerLink:active {
+    color: #9345FC;
+  }  

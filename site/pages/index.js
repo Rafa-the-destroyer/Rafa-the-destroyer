@@ -1,5 +1,7 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
+import Header from '@includes/header'
+import Footer from '@includes/footer'
 
 export default function Home() {
   return (
@@ -9,16 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <header>
-          <div>
-            <h2>Rafaelimao</h2>
-          </div>
-          <div>
-            <a href='/' className={styles.headerLink}>
-              <p>Home</p>
-            </a>
-          </div>
-      </header>
+      <Header />
 
       <main className={styles.main}>
         <h1 className={styles.title}>
@@ -35,7 +28,7 @@ export default function Home() {
             <p>Quem sou eu? Bem, depende de quem está perguntando...</p>
           </a>
 
-          <a href="#" className={styles.card}>
+          <a href="./blog" className={styles.card}>
             <h3>Blog &rarr;</h3>
             <p>Um texto de cada vez, eu vou organizar cada ideia dessa cabeça!</p>
           </a>
@@ -60,9 +53,7 @@ export default function Home() {
         </div>
       </main>
 
-      <footer className={styles.footer}>
-        Made with ☕ by Rafael Limão
-      </footer>
+      <Footer />
     </div>
   )
 }

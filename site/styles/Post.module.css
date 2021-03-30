@@ -1,0 +1,20 @@
+.container {
+    background-color: #121212;
+    min-height: 100vh;
+    height: 100%;
+}
+
+.article {
+    display: grid;
+    place-items: center;
+
+    color: #fafafa;
+}
+
+.article h1 {
+    font-size: 72px;
+}
+
+.article p {
+    font-size: 21px;
+}
