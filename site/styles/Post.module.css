@@ -18,3 +18,51 @@
 .article p {
     font-size: 21px;
 }
+
+.container {
+    min-height: 100vh;
+    min-width: 100vw;
+    padding: 0 0.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #121212;
+  }
+
+  .main {
+    padding: 5rem 0;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    min-width: 100vw;
+  }
+
+  .title {
+    margin: 0;
+    line-height: 1.15;
+    font-size: 4rem;
+  }
+
+  .title,
+  .description {
+    text-align: center;
+
+    color: #fafafa;
+  }
+
+  .description {
+    line-height: 1.5;
+    font-size: 1.5rem;
+  }
+
+  @media (max-width: 600px) {
+    .grid {
+      width: 100%;
+      flex-direction: column;
+    }
+  }

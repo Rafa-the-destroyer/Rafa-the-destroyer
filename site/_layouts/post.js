@@ -5,7 +5,7 @@ import styles from '../styles/Post.module.css'
 export default function PostLayout(props) {
     return (
       <div className={styles.container}>
-        <DefaultLayout>
+        <DefaultLayout className={styles.main}>
           <Head>
             <title>{props.title} - Rafaelimao</title>
           </Head>
