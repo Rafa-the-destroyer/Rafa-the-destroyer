@@ -34,10 +34,10 @@ export default function Home() {
           </a>
 
           <a
-            href="https://edstation.com.br"
+            href="https://github.com/rafaelimao/textport"
             className={styles.card}
           >
-            <h3>Edstation School &rarr;</h3>
+            <h3>TextPort &rarr;</h3>
             <p>O projeto em que estou envolvido no momento! Dá uma olhada!</p>
           </a>
 
