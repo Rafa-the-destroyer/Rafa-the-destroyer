@@ -1,6 +1,6 @@
 ![github banner](github-banner.png)
 
-### Hi there 👋
+<h1 align='center'><strong>Hi there 👋</strong></h1>
 
 My name is Rafael, and I love to Program!
 
