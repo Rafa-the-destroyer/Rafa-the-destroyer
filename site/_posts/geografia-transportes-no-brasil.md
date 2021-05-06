@@ -3,10 +3,6 @@ title: 'Geografia: Transportes no Brasil'
 description: Uma pesquisa sobre os tipos de transportes existentes e quais os mais e menos eficientes no Brasil.
 ---
 
-Esta é uma pesquisa de Geografia para comparar alguns dos principais tipos de transporte utilizados no Brasil.
-
----
-
 O Brasil divide seus tipos de transporte em 5 áreas principais:
 
 1. Rodoviário
