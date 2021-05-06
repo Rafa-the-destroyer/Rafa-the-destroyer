@@ -9,7 +9,7 @@
     display: grid;
     place-items: center;
 
-    color: #fafafa;
+    color: #fffffe;
 }
 
 .article h1 {
@@ -49,7 +49,7 @@
   .description {
     text-align: center;
 
-    color: #fafafa;
+    color: #fffffe;
   }
 
   .description {

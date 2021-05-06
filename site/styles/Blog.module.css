@@ -31,7 +31,7 @@
   .description {
     text-align: center;
   
-    color: #fafafa;
+    color: #fffffe;
   }
   
   .description {
@@ -40,7 +40,7 @@
   }
   
   .code {
-    background: #fafafa;
+    background: #fffffe;
     border-radius: 5px;
     padding: 0.75rem;
     font-size: 1.1rem;
@@ -64,18 +64,18 @@
     text-align: left;
     color: inherit;
     text-decoration: none;
-    border: 1px solid #eaeaea;
+    border: 1px solid #fffffe;
     border-radius: 10px;
     transition: color 0.15s ease, border-color 0.15s ease;
   
-    color: #fafafa;
+    color: #fffffe;
   }
   
   .card:hover,
   .card:focus,
   .card:active {
-    color: #9345FC;
-    border-color: #9345FC;
+    color: #FF8906;
+    border-color: #FF8906;
   }
   
   .card h3 {
