@@ -1,9 +1,11 @@
+![Github Banner]("Github Banner.png")
+
 ### Hi there 👋
 
 My name is Rafael, and I love to Program!
 
 - 🔭 I’m currently working on an online markdown-based text editor!!!
-- 🌱 I’m currently learning Economy and Hacking.
+- 🌱 I’m currently learning about Genetic Algorithims and Hacking.
 - ⚡ Fun fact: My name is Rafael, but all my friends call me "Limão", wich translated to english means "Lemon"...
 
 Alredy been into:
