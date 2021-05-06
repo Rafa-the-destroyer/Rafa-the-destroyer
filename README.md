@@ -1,4 +1,4 @@
-!['Github Banner.png']()
+![github banner](github-banner.png)
 
 ### Hi there 👋
 
