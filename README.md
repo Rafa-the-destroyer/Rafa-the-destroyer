@@ -4,7 +4,7 @@
 
 My name is Rafael, and I love to Program!
 
-- 🔭 I’m currently working on an online markdown-based text editor called [TextPort](https://github.com/rafaelimao/textport) and in a NLP-based discord bot (wich is private for now).
+- 🔭 I’m currently working on an online markdown-based text editor called [TextPort](https://github.com/rafaelimao/textport).
 - 🌱 I’m currently learning about Genetic Algorithims and Malware Developing.
 - ⚡ Fun fact: My name is Rafael, but all my friends call me "Limão", wich translated to english means "Lemon"...
 
